@@ -8,4 +8,3 @@ public class hello_world {
 }
 //This is my first code in java
 
-C: /user/sanket/ideaprojects/java_full_practice
