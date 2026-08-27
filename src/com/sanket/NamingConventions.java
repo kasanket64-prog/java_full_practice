@@ -1,3 +1,6 @@
+/* Naming conventions make code structured, 
+   professional, and easy to understand */
+
 package com.sanket;
 
 public class NamingConventions
