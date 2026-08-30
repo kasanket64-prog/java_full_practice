@@ -1,4 +1,4 @@
-package com.sanket;
+package com.basic_codes;
 
 public class website_structure {
     static void main (String[] args){
