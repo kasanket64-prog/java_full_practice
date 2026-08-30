@@ -1,7 +1,7 @@
 /* Naming conventions make code structured, 
    professional, and easy to understand */
 
-package com.sanket;
+package com.basic_codes;
 
 public class NamingConventions
         /*  n is capital rest all letters are

@@ -1,4 +1,4 @@
-package com.sanket;
+package com.basic_codes;
 
 public class hello_world {
     public static void   main(String[] args)

@@ -1,4 +1,4 @@
-package com.sanket;
+package com.basic_codes;
 class Student {
     String name;
     int rollNo;
