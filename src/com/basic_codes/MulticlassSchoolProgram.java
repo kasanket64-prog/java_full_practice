@@ -31,6 +31,12 @@ class Mentor {
         System.out.println("Mentor Name: " + name);
         System.out.println("Subject: " + subject);
     }
+
+    public void showData() {
+    }
+
+    public void takeInfo() {
+    }
 }
 
 class SchoolProgram {
