@@ -17,8 +17,20 @@ public class basic1{
         d=sc.nextInt();
         sc.nextLine();
         sum =a+b+c+d;
-        System.out.println("sum"+sum);
+        if(sum>10){
+            if(sum<20){
+        System.out.println("sum="+sum+", your value is higher than 10 but less than 20");
+        }
+        else if(sum>20){
+            System.out.println("sum="+sum+", your value is higher than 20 but less than 20");}
+        }
+        else if(sum<10){
+            System.out.println("sum="+sum+", your value is lesser than 10");
+        }
+        else{
+            System.out.println(sum+", your value is higher than 20");
 
     }
 
+}
 }
