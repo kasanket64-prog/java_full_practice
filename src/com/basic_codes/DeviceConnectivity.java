@@ -64,7 +64,7 @@ public class DeviceConnectivity {
 
         System.out.println("=== Smart TV ===");
         tv.displayInfo();
-        
+
         tv.connectToNetwork();
 
         System.out.println("\n=== Smartwatch ===");
