@@ -1,5 +1,6 @@
 package com.basic_codes;
 
+
 abstract class Time {
     int hr, min, sec;
     Time() {
@@ -22,7 +23,7 @@ class Demo extends Time {
         System.out.println("Time: " + hr + ":" + min + ":" + sec);
     }
 }
-public class Main {
+public class timeprogrammanual{
     public static void main(String[] args) {
 
         Time t1 = new Demo();

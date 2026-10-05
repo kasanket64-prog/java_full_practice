@@ -69,7 +69,7 @@ class PropertyTax extends Utility {
     }
 }
 
-// Main Class
+// setandgetmethod Class
 public class SmartCityUtilityManagement {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
